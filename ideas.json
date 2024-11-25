@@ -1,0 +1,112 @@
+[
+    {
+        "project_name": "Personal Portfolio Website",
+        "description": "A simple yet polished personal website to showcase your skills, projects, and resume.",
+        "time_estimate": "4h"
+    },
+    {
+        "project_name": "Weather App",
+        "description": "Simple weather app that shows the current weather and forecast for the next 5 days.",
+        "time_estimate": "1h"
+    },
+    {
+        "project_name": "To-Do List",
+        "description": "A simple to-do list app that allows users to add, edit, and delete tasks.",
+        "time_estimate": "1h"
+    },
+    {
+        "project_name": "Calculator",
+        "description": "A simple calculator app that can perform basic arithmetic operations.",
+        "time_estimate": "30m"
+    },
+    {
+        "project_name": "Blog Website",
+        "description": "A blog website where users can create, edit, and delete posts.",
+        "time_estimate": "4h"
+    },
+    {
+        "project_name": "E-Commerce Website",
+        "description": "An e-commerce website where users can browse products, add them to cart, and checkout.",
+        "time_estimate": "6h"
+    },
+    {
+        "project_name": "Real-Time Chat Application",
+        "description": "A real-time chat app with user authentication, message history, and notifications.",
+        "time_estimate": "5h"
+    },
+    {
+        "project_name": "Recipe Finder App",
+        "description": "An app that allows users to search for recipes based on ingredients they have at home.",
+        "time_estimate": "3h"
+    },
+    {
+        "project_name": "Expense Tracker",
+        "description": "An app to track personal expenses, categorize them, and visualize spending trends.",
+        "time_estimate": "4h"
+    },
+    {
+        "project_name": "Photo Gallery",
+        "description": "A photo gallery app where users can upload, view, and organize their photos.",
+        "time_estimate": "4h"
+    },
+    {
+        "project_name": "Interactive Quiz App",
+        "description": "An app that lets users take quizzes, track scores, and see correct answers after completing the quiz.",
+        "time_estimate": "3h"
+    },
+    {
+        "project_name": "Fitness Tracker",
+        "description": "An app that tracks fitness activities like walking, running, or cycling, and visualizes progress.",
+        "time_estimate": "5h"
+    },
+    {
+        "project_name": "Music Player",
+        "description": "A simple music player app with the ability to play, pause, and skip tracks from a playlist.",
+        "time_estimate": "4h"
+    },
+    {
+        "project_name": "Movie Database App",
+        "description": "An app that lets users search for movies and shows, displaying details like ratings, plot, and cast.",
+        "time_estimate": "5h"
+    },
+    {
+        "project_name": "Markdown to HTML Converter",
+        "description": "An app that converts markdown text into HTML for easy formatting and previewing.",
+        "time_estimate": "2h"
+    },
+    {
+        "project_name": "Job Board Website",
+        "description": "A job listing website where users can post and apply for jobs, with search and filtering capabilities.",
+        "time_estimate": "6h"
+    },
+    {
+        "project_name": "Currency Converter",
+        "description": "A tool that allows users to convert between different currencies in real-time using an API.",
+        "time_estimate": "2h"
+    },
+    {
+        "project_name": "Task Manager",
+        "description": "An advanced to-do list app with project management features like deadlines, priorities, and progress tracking.",
+        "time_estimate": "5h"
+    },
+    {
+        "project_name": "Virtual Pet",
+        "description": "A virtual pet app where users can feed, play, and care for a virtual pet.",
+        "time_estimate": "4h"
+    },
+    {
+        "project_name": "Recipe Sharing Platform",
+        "description": "A platform where users can share, discover, and rate recipes.",
+        "time_estimate": "6h"
+    },
+    {
+        "project_name": "Code Snippet Manager",
+        "description": "A web app that allows users to save, organize, and search for their favorite code snippets.",
+        "time_estimate": "4h"
+    },
+    {
+        "project_name": "Notes App with Sync",
+        "description": "A notes app that syncs across devices, with features like categorization and search.",
+        "time_estimate": "5h"
+    }
+]
